@@ -1,0 +1,54 @@
+﻿## Ignore build output directories
+*/bin/
+*/obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer and Windows Update logs
+*.log
+
+## User-specific files from VS Code
+*/.vscode/
+
+## JetBrains Rider files
+*/.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## User-specific files from Visual Studio for Mac
+.vscode/
+
+## .NET Core & ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## VS for Mac files
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer and Windows Update logs
+*.log
+
+## Azure Functions
+.local/
+
+## .NET Core user-specific files
+.vscode/
+

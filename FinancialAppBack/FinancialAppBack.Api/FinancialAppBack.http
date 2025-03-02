@@ -1,0 +1,6 @@
+@FinancialAppBackApi_HostAddress = http://localhost:5166
+
+GET {{FinancialAppBackApi_HostAddress}}
+Accept: application/json
+
+###
