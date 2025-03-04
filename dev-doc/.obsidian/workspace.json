@@ -11,14 +11,12 @@
             "id": "5eab64c1e61288de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Specifications.md",
-                "mode": "source",
-                "source": false
+                "file": "DER.png"
               },
-              "icon": "lucide-file",
-              "title": "Specifications"
+              "icon": "lucide-image",
+              "title": "DER"
             }
           }
         ]
