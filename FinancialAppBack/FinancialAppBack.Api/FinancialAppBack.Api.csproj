@@ -16,6 +16,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\FinancialAppBack.Application\FinancialAppBack.Application.csproj" />
         <ProjectReference Include="..\FinancialAppBack.Domain\FinancialAppBack.Domain.csproj" />
         <ProjectReference Include="..\FinancialAppBack.Infrastructure\FinancialAppBack.Infrastructure.csproj" />
     </ItemGroup>

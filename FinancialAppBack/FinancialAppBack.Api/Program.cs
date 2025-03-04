@@ -1,9 +1,11 @@
+using FinancialAppBack.Application;
 using FinancialAppBack.Infrastructure.Database;
 using Microsoft.EntityFrameworkCore;
 
 void ConfigureServices(IServiceCollection services, IConfiguration configuration)
 {
     services.AddDatabase(configuration)
+        .AddAutoTransients()
         .AddCors(options =>
         {
             options.AddDefaultPolicy(policyBuilder =>
